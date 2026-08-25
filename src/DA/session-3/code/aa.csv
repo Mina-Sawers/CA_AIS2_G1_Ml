@@ -1,0 +1,10 @@
+,0
+Survived,category
+Pclass,category
+Sex,category
+Age,float64
+SibSp,category
+Parch,category
+Fare,float64
+Cabin,str
+Embarked,category
